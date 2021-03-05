@@ -3,6 +3,9 @@
 * [Catching Pokemon](#catching-pokemon)
 * [Fainted Pokemon](#fainted-pokemon)
 * [White-/Blackout](#white-blackout-is-game-over)
+* [Pokeslots](#pokeslots)
+* [Pokeslots for Gymchallenges](#pokeslots-for-gymchallenges)
+* [Item Usage](#item-usage)
 
 ## Catching Pokemon
 * You get one catch attempt per route/zone.
