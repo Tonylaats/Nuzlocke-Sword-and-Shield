@@ -4,7 +4,7 @@
 ## Index
 * [Catch Progress](#catch-progress)
   * [Routes](#routes)
-  * [Wild Areas](#wild areas) 
+  * [Wild Areas](#wild-areas) 
 
 ## Catch Progress
 ### Routes
@@ -42,3 +42,14 @@
 | <li>- [ ] </li> | Motostoke Riverbank | ?
 
 **Southern Wild Area**
+| Yes/No | Area | Pokemon
+|:----:|--------|--------|
+| <li>- [ ] </li> | Watchtower Ruins | ?
+| <li>- [ ] </li> | East Lake Axewell | ?
+| <li>- [ ] </li> | North Lake Miloch | ?
+| <li>- [ ] </li> | West Lake Axewell | ?
+| <li>- [ ] </li> | Axew's Eye | ?
+| <li>- [ ] </li> | South Lake Miloch | ?
+| <li>- [ ] </li> | Giant's Seat | ?
+| <li>- [ ] </li> | Dappled Grove | ?
+| <li>- [ ] </li> | Rolling Fields | ?
