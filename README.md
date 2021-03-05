@@ -1,6 +1,8 @@
 # Pokemon Sword and Shield Nuzlocke Challenge
 ## Index
 * [Catching Pokemon](#catching-pokemon)
+* [Fainted Pokemon](#fainted-pokemon)
+* [White-/Blackout](#white-blackout-is-game-over)
 
 ## Catching Pokemon
 * You get one catch attempt per route/zone.
