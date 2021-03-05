@@ -1,7 +1,7 @@
 # Pokemon Sword and Shield Nuzlocke Challenge
 [Reference to the Rules](https://www.reddit.com/r/nuzlocke/comments/h7rhth/sword_and_shield_nuzlocke_rules_solved/)
 * [Tony's Progress](https://github.com/Tonylaats/Nuzlocke-Progress/blob/main/Progress.md)
-* [Mitch's Progress]()
+* [Mitch's Progress](https://github.com/Mitch2703/Nuzlocke-Progress-Mitchell/blob/main/Progress.md)
 * [Tom's Progress]()
 
 ## Index
