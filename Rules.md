@@ -14,6 +14,7 @@
   * [Routes](#routes) 
   * [Wild Areas](#wild-areas)
   * [Cities](#cities)
+  * [Gyms](#gyms)
 
 ## Nuzlocke Rules
 ### Catching Pokemon
@@ -121,6 +122,10 @@ Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 * [Circhester](https://www.serebii.net/pokearth/galar/circhester.shtml)
 * [Spikemuth](https://www.serebii.net/pokearth/galar/spikemuth.shtml)
 * [Wyndon](https://www.serebii.net/pokearth/galar/wyndon.shtml)
+
+### Gyms
+* [Gyms](https://www.serebii.net/swordshield/gyms.shtml)
+* [Champion Cup](https://www.serebii.net/swordshield/championcup.shtml)
 
 
 
