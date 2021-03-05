@@ -62,8 +62,9 @@ Banned items:
 Pokemon are allowed to hold any item.
 
 
-* [x] ringding
+* [ ] ringding
 * [ ] gunggang
+* [ ] jajajajaja
 
 
 
