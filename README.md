@@ -60,3 +60,11 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 Banned items:
   * (Max) Revives
 Pokemon are allowed to hold any item.
+
+
+* [x] ringding
+* [ ] gunggang
+
+
+
+
