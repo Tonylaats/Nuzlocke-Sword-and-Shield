@@ -1,4 +1,6 @@
 # Pokemon Sword and Shield Nuzlocke Challenge
+[Reference to the Rules](https://www.reddit.com/r/nuzlocke/comments/h7rhth/sword_and_shield_nuzlocke_rules_solved/)
+
 ## Index
 * [Catching Pokemon](#catching-pokemon)
 * [Fainted Pokemon](#fainted-pokemon)
