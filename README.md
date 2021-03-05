@@ -1,5 +1,5 @@
 # Pokemon Sword and Shield Nuzlocke Challenge
-## 1. Catching Pokemon
+## Catching Pokemon
 * You get one catch attempt per route/zone.
 * Each named wild area (17 in total) counts as one zone.
   * You get 1 encounter when you first enter the wild area.
@@ -11,3 +11,36 @@
 * I will allow myself to catch the first Pokemon I see. If I see two at the EXACT same time, I will ignore both and catch the next Pokemon I see.
   * After seeing the first overworld Pokemon, you can decide if you would rather receive a rustling grass Pokemon instead of the overworld one.
 * You must nickname your caught pokemon.
+
+## Fainted Pokemon
+* If a Pokemon faints it dies. It must be released or boxed indefinitely.
+
+## White-/Blackout is game over
+* It doesn’t matter if you have more pokemon in your boxes
+* As long as you win the battle with at least one pokemon you can withdraw more pokemon from your bank and keep going.
+
+## Pokeslots
+* The number of Pokemon you can have in your party is determined by the number of badges you have:
+  * 0 badges = 2 slots
+  * 1-2 badges = 3 slots
+  * 3 badges = 4 slots
+  * 4 badges = 5 slots
+  * 5+ badges = 6 slots
+* You can swap out your pokemon at any time using your pokemon bank link
+
+## Pokeslots for Gymchallenges
+* You can only bring as many Pokemon to a gym as the leader has Pokemon:
+  * Gym 1 = 2 Pokemon
+  * Gym 2 = 3 Pokemon
+  * Gym 3 = 3 Pokemon
+  * Gym 4 = 4 Pokemon
+  * Gym 5 = 4 Pokemon
+  * Gym 6 = 4 Pokemon
+  * Gym 7 = 4 Pokemon
+  * Gym 8 = 4 Pokemon
+  * Champion match = 6 Pokemon
+
+## Item Usage
+* Banned items
+  * All revives
+  * Pokemon are allowed to hold any item
