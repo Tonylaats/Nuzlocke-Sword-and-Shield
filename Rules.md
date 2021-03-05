@@ -106,17 +106,17 @@ Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 * [Rolling Fields](https://www.serebii.net/pokearth/galar/rollingfields.shtml)
 
 ### Cities
-* [Postwick]((https://www.serebii.net/pokearth/galar/postwick.shtml))
-* [Wedgehurst]((https://www.serebii.net/pokearth/galar/wedgehurst.shtml))
-* [Motostoke]((https://www.serebii.net/pokearth/galar/motostoke.shtml))
+* [Postwick](https://www.serebii.net/pokearth/galar/postwick.shtml)
+* [Wedgehurst](https://www.serebii.net/pokearth/galar/wedgehurst.shtml)
+* [Motostoke](https://www.serebii.net/pokearth/galar/motostoke.shtml)
 * [Turffield](https://www.serebii.net/pokearth/galar/turffield.shtml)
 * [Hulbury](https://www.serebii.net/pokearth/galar/hulbury.shtml)
 * [Hammerlocke](https://www.serebii.net/pokearth/galar/hammerlocke.shtml)
-* [Stow-on-Side]((https://www.serebii.net/pokearth/galar/stow-on-side.shtml))
+* [Stow-on-Side](https://www.serebii.net/pokearth/galar/stow-on-side.shtml)
 * [Ballonlea](https://www.serebii.net/pokearth/galar/ballonlea.shtml)
 * [Circhester](https://www.serebii.net/pokearth/galar/circhester.shtml)
-* [Spikemuth]((https://www.serebii.net/pokearth/galar/spikemuth.shtml))
-* [Wyndon]((https://www.serebii.net/pokearth/galar/wyndon.shtml))
+* [Spikemuth](https://www.serebii.net/pokearth/galar/spikemuth.shtml)
+* [Wyndon](https://www.serebii.net/pokearth/galar/wyndon.shtml)
 
 
 
