@@ -67,12 +67,17 @@ Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 
 ## Game Info
 ### Routes
+* [Slumbering Weald](https://www.serebii.net/pokearth/galar/slumberingweald.shtml)
 * [Route 1](https://www.serebii.net/pokearth/galar/route1.shtml)
 * [Route 2](https://www.serebii.net/pokearth/galar/route2.shtml)
 * [Route 3](https://www.serebii.net/pokearth/galar/route3.shtml)
+* [Galar Mine](https://www.serebii.net/pokearth/galar/galarmine.shtml)
 * [Route 4](https://www.serebii.net/pokearth/galar/route4.shtml)
 * [Route 5](https://www.serebii.net/pokearth/galar/route5.shtml)
+* [Galar Mine No. 2](https://www.serebii.net/pokearth/galar/galarmineno.2.shtml)
+* [Motostoke Outskirts](https://www.serebii.net/pokearth/galar/motostokeoutskirts.shtml)
 * [Route 6](https://www.serebii.net/pokearth/galar/route6.shtml)
+* [Glimwood Tangle](https://www.serebii.net/pokearth/galar/glimwoodtangle.shtml)
 * [Route 7](https://www.serebii.net/pokearth/galar/route7.shtml)
 * [Route 8](https://www.serebii.net/pokearth/galar/route8.shtml)
 * [Route 9](https://www.serebii.net/pokearth/galar/route9.shtml)
@@ -101,7 +106,17 @@ Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 * [Rolling Fields](https://www.serebii.net/pokearth/galar/rollingfields.shtml)
 
 ### Cities
-
+* [Postwick]((https://www.serebii.net/pokearth/galar/postwick.shtml))
+* [Wedgehurst]((https://www.serebii.net/pokearth/galar/wedgehurst.shtml))
+* [Motostoke]((https://www.serebii.net/pokearth/galar/motostoke.shtml))
+* [Turffield](https://www.serebii.net/pokearth/galar/turffield.shtml)
+* [Hulbury](https://www.serebii.net/pokearth/galar/hulbury.shtml)
+* [Hammerlocke](https://www.serebii.net/pokearth/galar/hammerlocke.shtml)
+* [Stow-on-Side]((https://www.serebii.net/pokearth/galar/stow-on-side.shtml))
+* [Ballonlea](https://www.serebii.net/pokearth/galar/ballonlea.shtml)
+* [Circhester](https://www.serebii.net/pokearth/galar/circhester.shtml)
+* [Spikemuth]((https://www.serebii.net/pokearth/galar/spikemuth.shtml))
+* [Wyndon]((https://www.serebii.net/pokearth/galar/wyndon.shtml))
 
 
 
