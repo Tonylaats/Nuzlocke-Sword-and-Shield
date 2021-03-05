@@ -8,16 +8,16 @@
 
 ## Badges
 
-Beaten | Gym No 
+| Beaten | Gym No 
 |:----:|--------|
-<li> [ ] </li> | Gym 1
-<li> [ ] </li> | Gym 2
-<li> [ ] </li> | Gym 3
-<li> [ ] </li> | Gym 4
-<li> [ ] </li> | Gym 5
-<li> [ ] </li> | Gym 6
-<li> [ ] </li> | Gym 7
-<li> [ ] </li> | Gym 8
+| <li> [ ] </li> | Gym 1
+| <li> [ ] </li> | Gym 2
+| <li> [ ] </li> | Gym 3
+| <li> [ ] </li> | Gym 4
+| <li> [ ] </li> | Gym 5
+| <li> [ ] </li> | Gym 6
+| <li> [ ] </li> | Gym 7
+| <li> [ ] </li> | Gym 8
 
 ## Catch Progress
 ### Routes
