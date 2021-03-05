@@ -9,7 +9,7 @@
 ## Catch Progress
 ### Routes
 
-| Yes/No | Route | Pokemon
+| Caught | Route | Pokemon
 |:----:|--------|--------|
 | <li>- [ ] </li> | Slumbering Weald | ?
 | <li>- [ ] </li> | Route 1 | ?
@@ -30,7 +30,7 @@
 ### Wild Areas
 **Nothern Wild Area** 
 
-| Yes/No | Area | Pokemon
+| Caught | Area | Pokemon
 |:----:|--------|--------|
 | <li>- [ ] </li> | Lake of Outrage | ?
 | <li>- [ ] </li> | Hammerlocke Hills | ?
@@ -42,7 +42,7 @@
 | <li>- [ ] </li> | Motostoke Riverbank | ?
 
 **Southern Wild Area**
-| Yes/No | Area | Pokemon
+| Caught | Area | Pokemon
 |:----:|--------|--------|
 | <li>- [ ] </li> | Watchtower Ruins | ?
 | <li>- [ ] </li> | East Lake Axewell | ?
