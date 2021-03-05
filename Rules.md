@@ -2,33 +2,35 @@
 [Reference to the Rules](https://www.reddit.com/r/nuzlocke/comments/h7rhth/sword_and_shield_nuzlocke_rules_solved/)
 
 ## Index
-* [Catching Pokemon](#catching-pokemon)
-* [Fainted Pokemon](#fainted-pokemon)
-* [White-/Blackout](#white-blackout-is-game-over)
-* [Pokeslots](#pokeslots)
-* [Pokeslots for Gymchallenges](#pokeslots-for-gymchallenges)
-* [Item Usage](#item-usage)
+* [Nuzlocke Rules](#nuzlocke-rules)
+ * [Catching Pokemon](#catching-pokemon)
+ * [Fainted Pokemon](#fainted-pokemon)
+ * [White-/Blackout](#white-blackout-is-game-over)
+ * [Pokeslots](#pokeslots)
+ * [Pokeslots for Gymchallenges](#pokeslots-for-gymchallenges)
+ * [Item Usage](#item-usage)
 
-## Catching Pokemon
+## Nuzlocke Rules
+### Catching Pokemon
 * You get one catch attempt per route/zone.
 * Each named wild area (17 in total) counts as one zone.
-  * You get 1 encounter when you first enter the wild area.
-  * You get 2 encounters after each gym challenge.
-  * "High Level" impossible to catch pokemon do not count.
+ * You get 1 encounter when you first enter the wild area.
+ * You get 2 encounters after each gym challenge.
+ * "High Level" impossible to catch pokemon do not count.
 * If you fail to catch the pokemon you do NOT get another try on this route.
 * Duplicate clause. If you encounter a pokemon you have already caught, then you get to mulligan.
 * If you can get through a zone without encountering any pokemon, you can come back later.
 * I will allow myself to catch the first Pokemon I see. If I see two at the EXACT same time, I will ignore both and catch the next Pokemon I see.
-  * After seeing the first overworld Pokemon, you can decide if you would rather receive a rustling grass Pokemon instead of the overworld one.
+ * After seeing the first overworld Pokemon, you can decide if you would rather receive a rustling grass Pokemon instead of the overworld one.
 * You must nickname your caught pokemon.
 
-## Fainted Pokemon
+### Fainted Pokemon
 If a Pokemon faints it dies. It must be released or boxed indefinitely.
 
-## White-/Blackout is game over
+### White-/Blackout is game over
 As long as you win the battle with at least one pokemon alive you can withdraw more pokemon from your bank and keep going. When your entire party dies, it's over.
 
-## Pokeslots
+### Pokeslots
 The number of Pokemon you can have in your party is determined by the number of badges you have:
 
  Badges | Slots
@@ -41,7 +43,7 @@ The number of Pokemon you can have in your party is determined by the number of 
 
 You can swap out your pokemon at any time using your pokemon bank link
 
-## Pokeslots for Gymchallenges
+### Pokeslots for Gymchallenges
 You can only bring as many Pokemon to a gym as the leader has Pokemon:
 
 | Gym No | Gym Type | Slots 
@@ -56,11 +58,7 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 | Gym 8 | Dragon | 4 Pokemon
 | Champion Cup | Mix | 6 Pokemon
   
-## Item Usage
+### Item Usage
 Banned items:
-  * (Max) Revives
+ * (Max) Revives
 Pokemon are allowed to hold any item.
-
-* [ ] fdfdfd
-* [ ] sdsdsd
-* [ ] sdsdsdfddgfdg
