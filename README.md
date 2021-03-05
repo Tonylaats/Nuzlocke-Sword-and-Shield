@@ -21,11 +21,13 @@
 
 ## Pokeslots
 * The number of Pokemon you can have in your party is determined by the number of badges you have:
-  * 0 badges = 2 slots
-  * 1-2 badges = 3 slots
-  * 3 badges = 4 slots
-  * 4 badges = 5 slots
-  * 5+ badges = 6 slots
+|Badges|Slots|
+|----|----|
+|0|2 slots|
+|1-2|3 slots|
+|3|4 slots|
+|4|5 slots|
+|5+|6 slots|
 * You can swap out your pokemon at any time using your pokemon bank link
 
 ## Pokeslots for Gymchallenges
