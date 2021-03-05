@@ -12,7 +12,7 @@
 
 | Caught | Route | Pokemon
 |:----:|--------|--------|
-| * [ ] | Slumbering Weald | ?
+| \[ ] | Slumbering Weald | ?
 | <li> [ ] </li> | Route 1 | ?
 | <li> [ ] </li> | Route 2 | ?
 | <li> [ ] </li> | Route 3 | ?
