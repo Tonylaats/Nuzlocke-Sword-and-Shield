@@ -10,7 +10,7 @@
   * [Pokeslots for Gymchallenges](#pokeslots-for-gymchallenges)
   * [Item Usage](#item-usage)
 * [Game Info](#game-info)
-  * [Types](#types) 
+  * [Type Advantages](#type-advantages) 
   * [Routes](#routes) 
   * [Wild Areas](#wild-areas)
   * [Cities](#cities)
@@ -68,7 +68,7 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 
 ## Game Info
-### Types
+### Type Advantages
 ![alt text](https://i.pinimg.com/originals/7b/c6/58/7bc65872baa79ac690e9e4ae1aa8cb64.png)
 
 ### Routes
