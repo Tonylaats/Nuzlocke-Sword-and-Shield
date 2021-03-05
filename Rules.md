@@ -68,20 +68,14 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 
 ## Progress
-| Yes/No | Route |
-|----|----------|
-| [ ] | Slumbering Weald |
-| [ ] | Route 1 | 
-| [ ] | Route 2 | 
-| [ ] | Route 3 | 
-| [ ] | Galar Mine | 
+ 
 
 ## Game Info
 ### Types
 ![alt text](https://i.pinimg.com/originals/7b/c6/58/7bc65872baa79ac690e9e4ae1aa8cb64.png)
 
 ### Routes
-* [Slumbering Weald](https://www.serebii.net/pokearth/galar/slumberingweald.shtml)
+* [ ] [Slumbering Weald](https://www.serebii.net/pokearth/galar/slumberingweald.shtml)
 * [Route 1](https://www.serebii.net/pokearth/galar/route1.shtml)
 * [Route 2](https://www.serebii.net/pokearth/galar/route2.shtml)
 * [Route 3](https://www.serebii.net/pokearth/galar/route3.shtml)
