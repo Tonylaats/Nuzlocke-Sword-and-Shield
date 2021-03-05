@@ -33,13 +33,13 @@ As long as you win the battle with at least one pokemon alive you can withdraw m
 ### Pokeslots
 The number of Pokemon you can have in your party is determined by the number of badges you have:
 
- Badges | Slots
+Badges | Slots
 ----|--------|
  0 | 2 slots
  1-2 | 3 slots
  3 | 4 slots
  4 | 5 slots
-  5+ | 6 slots
+ 5+ | 6 slots
 
 You can swap out your pokemon at any time using your pokemon bank link
 
@@ -59,6 +59,5 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 | Champion Cup | Mix | 6 Pokemon
   
 ### Item Usage
-Banned items:
-  * (Max) Revives
-Pokemon are allowed to hold any item.
+Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
+
