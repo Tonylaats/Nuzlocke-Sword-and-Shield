@@ -20,7 +20,7 @@
 * As long as you win the battle with at least one pokemon you can withdraw more pokemon from your bank and keep going.
 
 ## Pokeslots
-* The number of Pokemon you can have in your party is determined by the number of badges you have:
+The number of Pokemon you can have in your party is determined by the number of badges you have:
 
 | Badges | Slots
 |----|--------|
@@ -29,20 +29,23 @@
 | 3 | 4 slots
 | 4 | 5 slots
 | 5+ | 6 slots
-* You can swap out your pokemon at any time using your pokemon bank link
+You can swap out your pokemon at any time using your pokemon bank link
 
 ## Pokeslots for Gymchallenges
 * You can only bring as many Pokemon to a gym as the leader has Pokemon:
-  * Gym 1 = 2 Pokemon
-  * Gym 2 = 3 Pokemon
-  * Gym 3 = 3 Pokemon
-  * Gym 4 = 4 Pokemon
-  * Gym 5 = 4 Pokemon
-  * Gym 6 = 4 Pokemon
-  * Gym 7 = 4 Pokemon
-  * Gym 8 = 4 Pokemon
-  * Champion match = 6 Pokemon
 
+| Gym No | Gym Type | Slots 
+|--------|----------------|--------|
+| Gym 1 | Grass | 2 Pokemon
+| Gym 2 | Water | 3 Pokemon
+| Gym 3 | Fire | 3 Pokemon
+| Gym 4 | Ghost/Fighting | 4 Pokemon
+| Gym 5 | Fairy | 4 Pokemon
+| Gym 6 | Ice/Rock | 4 Pokemon
+| Gym 7 | Dark | 4 Pokemon
+| Gym 8 | Dragon | 4 Pokemon
+| Champion Cup | Mix | 6 Pokemon
+  
 ## Item Usage
 * Banned items
   * All revives
