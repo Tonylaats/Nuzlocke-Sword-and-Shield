@@ -10,7 +10,7 @@
   * [Pokeslots for Gymchallenges](#pokeslots-for-gymchallenges)
   * [Item Usage](#item-usage)
 * [Game Info](#game-info)
-  * [Routes](#links-to-routes) 
+  * [Map](#links-to-map) 
 
 ## Nuzlocke Rules
 ### Catching Pokemon
@@ -64,7 +64,8 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 
 ## Game Info
-### Links to Routes
+### Links to Map 
+#### Routes
 * [Route 1](https://www.serebii.net/pokearth/galar/route1.shtml)
 * [Route 2](https://www.serebii.net/pokearth/galar/route2.shtml)
 * [Route 3](https://www.serebii.net/pokearth/galar/route3.shtml)
@@ -75,3 +76,33 @@ Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 * [Route 8](https://www.serebii.net/pokearth/galar/route8.shtml)
 * [Route 9](https://www.serebii.net/pokearth/galar/route9.shtml)
 * [Route 10](https://www.serebii.net/pokearth/galar/route10.shtml)
+
+#### Wild Areas
+**Nothern Wild Area** 
+* [Lake of Outrage](https://www.serebii.net/pokearth/galar/lakeofoutrage.shtml)
+* [Hammerlocke Hills](https://www.serebii.net/pokearth/galar/hammerlockehills.shtml)
+* [Giant's Cap](https://www.serebii.net/pokearth/galar/giant'scap.shtml)
+* [Dusty Bowl](https://www.serebii.net/pokearth/galar/dustybowl.shtml)
+* [Giant's Mirror](https://www.serebii.net/pokearth/galar/giant'smirror.shtml)
+* [Stony Wilderness](https://www.serebii.net/pokearth/galar/stonywilderness.shtml)
+* [Bridge Field](https://www.serebii.net/pokearth/galar/bridgefield.shtml)
+* [Motostoke Riverbank](https://www.serebii.net/pokearth/galar/motostokeriverbank.shtml)
+
+**Southern Wild Area**
+* [Watchtower Ruins](https://www.serebii.net/pokearth/galar/watchtowerruins.shtml)
+* [East Lake Axewell](https://www.serebii.net/pokearth/galar/eastlakeaxewell.shtml)
+* [North Lake Miloch](https://www.serebii.net/pokearth/galar/northlakemiloch.shtml)
+* [West Lake Axewell](https://www.serebii.net/pokearth/galar/westlakeaxewell.shtml)
+* [Axew's Eye](https://www.serebii.net/pokearth/galar/axew'seye.shtml)
+* [South Lake Miloch](https://www.serebii.net/pokearth/galar/southlakemiloch.shtml)
+* [Giant's Seat](https://www.serebii.net/pokearth/galar/giant'sseat.shtml)
+* [Dappled Grove](https://www.serebii.net/pokearth/galar/dappledgrove.shtml)
+* [Rolling Fields](https://www.serebii.net/pokearth/galar/rollingfields.shtml)
+
+#### Cities
+
+
+
+
+
+
