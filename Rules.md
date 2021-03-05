@@ -65,7 +65,7 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 | Champion Cup | Mix | 6 Pokemon
   
 ### Item Usage
-Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
+(Max) revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 
 ## Game Info
 ### Type Advantages
