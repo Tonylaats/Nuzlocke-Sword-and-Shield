@@ -10,7 +10,9 @@
   * [Pokeslots for Gymchallenges](#pokeslots-for-gymchallenges)
   * [Item Usage](#item-usage)
 * [Game Info](#game-info)
-  * [Map](#links-to-map) 
+  * [Routes](#routes) 
+  * [Wild Areas](#wild-areas)
+  * [Cities](#cities)
 
 ## Nuzlocke Rules
 ### Catching Pokemon
