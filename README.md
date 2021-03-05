@@ -61,11 +61,6 @@ Banned items:
   * (Max) Revives
 Pokemon are allowed to hold any item.
 
-
-* [ ] ringding
-* [ ] gunggang
-* [ ] jajajajaja
-
-
-
-
+* [ ] fdfdfd
+* [ ] sdsdsd
+* [ ] sdsdsdfddgfdg
