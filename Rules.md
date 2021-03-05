@@ -10,6 +10,7 @@
   * [Pokeslots for Gymchallenges](#pokeslots-for-gymchallenges)
   * [Item Usage](#item-usage)
 * [Game Info](#game-info)
+  * [Types](#types) 
   * [Routes](#routes) 
   * [Wild Areas](#wild-areas)
   * [Cities](#cities)
@@ -66,6 +67,9 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 
 ## Game Info
+### Types
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F550142910709862565%2F&psig=AOvVaw0G-qRV1ESA3O-VnK1iv6n5&ust=1614999778735000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID5r5OVmO8CFQAAAAAdAAAAABAs)
+
 ### Routes
 * [Slumbering Weald](https://www.serebii.net/pokearth/galar/slumberingweald.shtml)
 * [Route 1](https://www.serebii.net/pokearth/galar/route1.shtml)
