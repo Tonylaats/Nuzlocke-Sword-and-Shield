@@ -15,7 +15,7 @@
 | <li>- [ ] </li> | Route 1 | ?
 | <li>- [ ] </li> | Route 2 | ?
 | <li>- [ ] </li> | Route 3 | ?
-| <li>- [ ] </li> | Galar Mine | ?
+| <li> [ ] </li> | Galar Mine | ?
 | <li>- [ ] </li> | Route 4 | ?
 | <li>- [ ] </li> | Route 5 | ?
 | <li>- [ ] </li> | Galar Mine No. 2 | ?
