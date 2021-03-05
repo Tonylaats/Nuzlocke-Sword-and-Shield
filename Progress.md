@@ -8,10 +8,12 @@
 
 ## Catch Progress
 ### Routes
+[ ] yes
+[ ] yes
 
 | Caught | Route | Pokemon
 |:----:|--------|--------|
-| <li> [ ] </li> | Slumbering Weald | ?
+| [ ] y | Slumbering Weald | ?
 | <li> [ ] </li> | Route 1 | ?
 | <li> [ ] </li> | Route 2 | ?
 | <li> [ ] </li> | Route 3 | ?
