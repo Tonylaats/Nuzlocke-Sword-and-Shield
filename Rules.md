@@ -64,8 +64,7 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 
 ## Game Info
-### Links to Map 
-#### Routes
+### Routes
 * [Route 1](https://www.serebii.net/pokearth/galar/route1.shtml)
 * [Route 2](https://www.serebii.net/pokearth/galar/route2.shtml)
 * [Route 3](https://www.serebii.net/pokearth/galar/route3.shtml)
@@ -77,7 +76,7 @@ Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 * [Route 9](https://www.serebii.net/pokearth/galar/route9.shtml)
 * [Route 10](https://www.serebii.net/pokearth/galar/route10.shtml)
 
-#### Wild Areas
+### Wild Areas
 **Nothern Wild Area** 
 * [Lake of Outrage](https://www.serebii.net/pokearth/galar/lakeofoutrage.shtml)
 * [Hammerlocke Hills](https://www.serebii.net/pokearth/galar/hammerlockehills.shtml)
@@ -99,7 +98,7 @@ Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 * [Dappled Grove](https://www.serebii.net/pokearth/galar/dappledgrove.shtml)
 * [Rolling Fields](https://www.serebii.net/pokearth/galar/rollingfields.shtml)
 
-#### Cities
+### Cities
 
 
 
