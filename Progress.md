@@ -1,10 +1,14 @@
-#Pokemon Sword and Shield Nuzlocke Progress
+# Pokemon Sword and Shield Nuzlocke Progress
 [Reference to Nuzlocke Rules](https://github.com/Tonylaats/Nuzlocke-Sword-and-Shield/blob/main/Rules.md)
 
 ## Index
-
+* [Catch Progress](#catch-progress)
+  * [Routes](#routes)
+  * [Wild Areas](#wild areas) 
 
 ## Catch Progress
+### Routes
+
 | Yes/No | Route | Pokemon
 |:----:|--------|--------|
 | <li>- [ ] </li> | Slumbering Weald | ?
@@ -22,3 +26,19 @@
 | <li>- [ ] </li> | Route 8 | ?
 | <li>- [ ] </li> | Route 9 | ?
 | <li>- [ ] </li> | Route 10 | ?
+
+### Wild Areas
+**Nothern Wild Area** 
+
+| Yes/No | Area | Pokemon
+|:----:|--------|--------|
+| <li>- [ ] </li> | Lake of Outrage | ?
+| <li>- [ ] </li> | Hammerlocke Hills | ?
+| <li>- [ ] </li> | Giant's Cap | ?
+| <li>- [ ] </li> | Dusty Bowl | ?
+| <li>- [ ] </li> | Giant's Mirror | ?
+| <li>- [ ] </li> | Stony Wilderness | ?
+| <li>- [ ] </li> | Bridge Field | ?
+| <li>- [ ] </li> | Motostoke Riverbank | ?
+
+**Southern Wild Area**
