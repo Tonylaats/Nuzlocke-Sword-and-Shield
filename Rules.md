@@ -2,7 +2,7 @@
 [Reference to the Rules](https://www.reddit.com/r/nuzlocke/comments/h7rhth/sword_and_shield_nuzlocke_rules_solved/)
 * [Tony's Progress](https://github.com/Tonylaats/Nuzlocke-Progress/blob/main/Progress.md)
 * [Mitch's Progress](https://github.com/Mitch2703/Nuzlocke-Progress-Mitchell/blob/main/Progress.md)
-* [Tom's Progress]()
+* [Tom's Progress](https://github.com/ReckoningFate/NuzlockeProgress/blob/main/Progress.md)
 
 ## Index
 * [Nuzlocke Rules](#nuzlocke-rules)
