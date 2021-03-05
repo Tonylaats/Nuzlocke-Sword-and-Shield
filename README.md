@@ -29,13 +29,14 @@ The number of Pokemon you can have in your party is determined by the number of 
 | 3 | 4 slots
 | 4 | 5 slots
 | 5+ | 6 slots
+
 You can swap out your pokemon at any time using your pokemon bank link
 
 ## Pokeslots for Gymchallenges
 * You can only bring as many Pokemon to a gym as the leader has Pokemon:
 
 | Gym No | Gym Type | Slots 
-|--------|----------------|--------|
+|--------|--------|--------|
 | Gym 1 | Grass | 2 Pokemon
 | Gym 2 | Water | 3 Pokemon
 | Gym 3 | Fire | 3 Pokemon
