@@ -13,7 +13,7 @@
 * You must nickname your caught pokemon.
 
 ## Fainted Pokemon
-* If a Pokemon faints it dies. It must be released or boxed indefinitely.
+If a Pokemon faints it dies. It must be released or boxed indefinitely.
 
 ## White-/Blackout is game over
 * It doesn’t matter if you have more pokemon in your boxes
@@ -33,7 +33,7 @@ The number of Pokemon you can have in your party is determined by the number of 
 You can swap out your pokemon at any time using your pokemon bank link
 
 ## Pokeslots for Gymchallenges
-* You can only bring as many Pokemon to a gym as the leader has Pokemon:
+You can only bring as many Pokemon to a gym as the leader has Pokemon:
 
 | Gym No | Gym Type | Slots 
 |--------|--------|--------|
