@@ -21,6 +21,7 @@
 
 ## Pokeslots
 * The number of Pokemon you can have in your party is determined by the number of badges you have:
+
 | Badges | Slots
 |----|--------|
 | 0 | 2 slots
