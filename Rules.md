@@ -68,7 +68,7 @@ Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 
 ## Game Info
 ### Types
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F550142910709862565%2F&psig=AOvVaw0G-qRV1ESA3O-VnK1iv6n5&ust=1614999778735000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID5r5OVmO8CFQAAAAAdAAAAABAs)
+![alt text](https://i.pinimg.com/originals/7b/c6/58/7bc65872baa79ac690e9e4ae1aa8cb64.png)
 
 ### Routes
 * [Slumbering Weald](https://www.serebii.net/pokearth/galar/slumberingweald.shtml)
