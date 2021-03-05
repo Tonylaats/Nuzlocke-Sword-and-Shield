@@ -9,6 +9,8 @@
   * [Pokeslots](#pokeslots)
   * [Pokeslots for Gymchallenges](#pokeslots-for-gymchallenges)
   * [Item Usage](#item-usage)
+* [Game Info](#game-info)
+  * [Routes](#routes) 
 
 ## Nuzlocke Rules
 ### Catching Pokemon
@@ -61,3 +63,15 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 ### Item Usage
 Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 
+## Game Info
+### Links to Routes
+* [Route 1](https://www.serebii.net/pokearth/galar/route1.shtml)
+* [Route 2](https://www.serebii.net/pokearth/galar/route2.shtml)
+* [Route 3](https://www.serebii.net/pokearth/galar/route3.shtml)
+* [Route 4](https://www.serebii.net/pokearth/galar/route4.shtml)
+* [Route 5](https://www.serebii.net/pokearth/galar/route5.shtml)
+* [Route 6](https://www.serebii.net/pokearth/galar/route6.shtml)
+* [Route 7](https://www.serebii.net/pokearth/galar/route7.shtml)
+* [Route 8](https://www.serebii.net/pokearth/galar/route8.shtml)
+* [Route 9](https://www.serebii.net/pokearth/galar/route9.shtml)
+* [Route 10](https://www.serebii.net/pokearth/galar/route10.shtml)
