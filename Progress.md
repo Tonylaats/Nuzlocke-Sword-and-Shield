@@ -5,10 +5,11 @@
 * [Catch Progress](#catch-progress)
   * [Routes](#routes)
   * [Wild Areas](#wild-areas) 
+* [Journal](#journal)
+  * [Day 1](#day-1) 
 
 ## Catch Progress
 ### Routes
-
 
 | Caught | Route | Pokemon
 |:----:|--------|--------|
@@ -54,3 +55,6 @@
 | <li> [ ] </li> | Giant's Seat | ?
 | <li> [ ] </li> | Dappled Grove | ?
 | <li> [ ] </li> | Rolling Fields | ?
+
+## Journal
+### Day 1
