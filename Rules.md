@@ -67,9 +67,6 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 ### Item Usage
 Max revives are banned for this nuzlocke. Pokemon are allowed to hold any item.
 
-## Progress
- 
-
 ## Game Info
 ### Types
 ![alt text](https://i.pinimg.com/originals/7b/c6/58/7bc65872baa79ac690e9e4ae1aa8cb64.png)
