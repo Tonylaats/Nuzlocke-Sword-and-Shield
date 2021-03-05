@@ -2,6 +2,7 @@
 [Reference to Nuzlocke Rules](https://github.com/Tonylaats/Nuzlocke-Sword-and-Shield/blob/main/Rules.md)
 
 ## Index
+* [Badges](#badges)
 * [Catch Progress](#catch-progress)
   * [Routes](#routes)
   * [Wild Areas](#wild-areas) 
