@@ -1,4 +1,7 @@
 # Pokemon Sword and Shield Nuzlocke Challenge
+## Index
+* [Catching Pokemon](#catching-pokemon)
+
 ## Catching Pokemon
 * You get one catch attempt per route/zone.
 * Each named wild area (17 in total) counts as one zone.
@@ -16,8 +19,7 @@
 If a Pokemon faints it dies. It must be released or boxed indefinitely.
 
 ## White-/Blackout is game over
-* It doesn’t matter if you have more pokemon in your boxes
-* As long as you win the battle with at least one pokemon you can withdraw more pokemon from your bank and keep going.
+As long as you win the battle with at least one pokemon alive you can withdraw more pokemon from your bank and keep going. When your entire party dies, it's over.
 
 ## Pokeslots
 The number of Pokemon you can have in your party is determined by the number of badges you have:
@@ -48,6 +50,6 @@ You can only bring as many Pokemon to a gym as the leader has Pokemon:
 | Champion Cup | Mix | 6 Pokemon
   
 ## Item Usage
-* Banned items
-  * All revives
-  * Pokemon are allowed to hold any item
+Banned items:
+  * (Max) Revives
+Pokemon are allowed to hold any item.
