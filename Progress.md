@@ -7,5 +7,5 @@
 ## Catch Progress
 | Yes/No | Route | Pokemon
 |----|--------|--------|
-| <ul><li>- [x] item1</li></ul> | Slumbering Weald | ?
-| <ul><li>- [x] item1</li></ul> | Route 1 | ?
+| <ul><li>- [x] </li></ul> | Slumbering Weald | ?
+| <ul><li>- [x] </li></ul> | Route 1 | ?
